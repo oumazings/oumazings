@@ -2,4 +2,4 @@
 
   ᛝ https://oumaissante.carrd.co   ₊   https://oumi.atabook.org ᛝ
 
-∘ ∘ ∘ ( °ヮ° ) **OUMA**⠀ ⠀ ⠀<ins>fdsfadf</ins>
+*∘ ∘ ∘ ( °ヮ° )* **OUMA**⠀ 𓏵⠀ <ins>7teen</ins>⠀ 𓏵⠀ *enfp*⠀ 𓏵⠀ aquarius
