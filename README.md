@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-/ᐠ - ˕ -マ
+/ᐠ - ˕ -マ ᶻ 𝗓 𐰁
 </p>
 
 <p align="center"> 
