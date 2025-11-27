@@ -2,4 +2,4 @@
 
   ᛝ https://oumaissante.carrd.co   ₊   https://oumi.atabook.org ᛝ
 
-sad
+∘ ∘ ∘ ( °ヮ° ) ## OUMI
