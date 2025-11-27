@@ -1,11 +1,8 @@
-<img width="736" height="417" alt="image" src="https://github.com/user-attachments/assets/7f59fa2c-25b5-45d3-9226-ab5ff825dadc" />
+                 <img width="736" height="417" alt="image" src="https://github.com/user-attachments/assets/7f59fa2c-25b5-45d3-9226-ab5ff825dadc" />
 
   ᛝ https://oumaissante.carrd.co   ₊   https://oumi.atabook.org ᛝ
 
 *∘ ∘ ∘ ( °ヮ° )* **OUMA**⠀ 𓏵⠀ <ins>7teen</ins>⠀ 𓏵⠀ *enfp*⠀ 𓏵⠀ aquarius
-
-<img width="250" height="244" alt="image" src="https://github.com/user-attachments/assets/d3a92456-bba0-4ba9-942b-08c1ac31f734" />
-
 
 ⸝⸝ **BYI** 
 
