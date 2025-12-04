@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-/ᐠ - ˕ -マ ᶻ 𝗓 𐰁
+/ᐠ - ˕ -マ $${\color{blue}ᶻ 𝗓 𐰁}$$
 </p>
 
 <p align="center"> 
