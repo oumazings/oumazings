@@ -1,4 +1,4 @@
-
+#
 <p align="center">
   <img width="500" height="68" alt="image" src="https://64.media.tumblr.com/c08b22a167d7bf1c09f30c8770f2c541/4160be3cc2b84620-5c/s500x750/d9f3f159901b1bf89c905cd80bda5d64be2f3f4d.gifv" />
 </p>
@@ -11,7 +11,7 @@
 </p>
 <p align="center">
 <img width="20" height="20" alt="image" src=https://64.media.tumblr.com/043211470c4654ca677c69f6e73aeda7/363b4785a0112062-af/s75x75_c1/c202bde443ced9bc6b4cecb78469aaa91af240df.gifv> 
-  <b>ouma</b> . 17 . enfp . aquarius . <ins>autistic</ins>
+  $${\color{pink}ouma}$$ . 7teen . enfp . aquarius . <ins>autistic</ins>
 </p>
 <p align="center">
 　
@@ -31,13 +31,13 @@
 .
 </p>
 <p align="center">
-ⓘ i encourage c+h freely, as long as im not with friends
+ⓘ i encourage c+h freely, $${\color{lightblue}as~long~as~im~not~with~friends}$$
 </p>
 <p align="center">
-ᛝ i am offtab or afk most of the time so i recommend w2i 
+ᛝ i am $${\color{red}offtab}$$ or $${\color{red}afk}$$ most of the time so i recommend w2i 
 </p>
 <p align="center">
-ᛝ im very awkward and shy so i wont often int first but im very friendly
+ᛝ im <ins><b>very</b></ins> awkward and shy so i wont often int first but im very friendly, but do $${\color{#73122f}IWC}$$ since sometimes im nonverbal!
 <p align="center">
 .
 </p>
