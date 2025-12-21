@@ -18,7 +18,7 @@
 　
   </p>
   <p align="center">
-  <a href="https://oumaissante.carrd.co">c</a>arrd　<a href="https://oumi.atabook.org">a</a>ta
+  <a href="https://oumatheoumazing.carrd.co">c</a>arrd　<a href="https://oumi.atabook.org">a</a>ta
   </p>
   <p align="center">
   </p>
