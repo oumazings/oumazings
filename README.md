@@ -18,7 +18,8 @@
 　
   </p>
   <p align="center">
-  <a href="https://oumatheoumazing.carrd.co">c</a>arrd　<a href="https://oumi.atabook.org">a</a>ta
+  <a href="https://oumatheoumazing.carrd.co">c</a>arrd　<img width="35" height="35" alt="image" src="https://64.media.tumblr.com/abc1aa603d19a3e5bc6c7ec2c776dc33/35bcf0fb21d903e5-36/s250x400/18738df3d5aeca7071cd22b00d8e1ca1724e20bd.gifv" />
+　<a href="https://oumi.atabook.org">a</a>ta
   </p>
   <p align="center">
   </p>
