@@ -18,7 +18,7 @@
 　
   </p>
   <p align="center">
-  <a href="https://oumazing.straw.page">s</a>traw　<img width="35" height="35" alt="image" src=https://64.media.tumblr.com/7021274123eeb095aba1de85b32f5c58/c5e516b88dce7159-08/s75x75_c1/68f4dad9ae6faf0bfe5802bd167bb266f3b4249c.gif />
+  <a href="https://nyancholic.straw.page">s</a>traw　<img width="35" height="35" alt="image" src=https://64.media.tumblr.com/7021274123eeb095aba1de85b32f5c58/c5e516b88dce7159-08/s75x75_c1/68f4dad9ae6faf0bfe5802bd167bb266f3b4249c.gif />
 　<a href="https://oumi.atabook.org">a</a>ta
   </p>
   <p align="center">
