@@ -1,6 +1,6 @@
 #
 <p align="center">
-<img width="200" height="300" src="https://media.discordapp.net/attachments/1054856673363251230/1482923344524345374/blmJo8wAAAABJRU5ErkJggg.png?ex=69b8b77c&is=69b765fc&hm=39f5ff0826b8b2026be46f686e27afadc7411b2055e70e12078b90114090cdae&=&format=webp&quality=lossless" />
+<img width="200" height="300" src="https://github.com/user-attachments/assets/04fcea78-2dd4-4509-97c9-6094ed129452" />
   <p align="center">
 　
   </p>
