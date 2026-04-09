@@ -1,6 +1,6 @@
 #
 <p align="center">
-<img width="200" height="300" src="https://github.com/user-attachments/assets/04fcea78-2dd4-4509-97c9-6094ed129452" />
+<img width="210" height="300" src="https://github.com/user-attachments/assets/44e86e2a-8b17-4b67-9d44-0d043945e2ff" />
   <p align="center">
 　
   </p>
@@ -11,7 +11,7 @@
 　
   </p>
   <p align="center">
-    <img width="75" height="75" src=https://64.media.tumblr.com/dbf42f117e82dd8240093ec183fd4a30/92141fc4d4b42dc0-c6/s500x750/0215c2f6ff0a71068c7b52c2b907ac79b82b6f36.pnj />
+    <img width="75" height="75" src="https://github.com/user-attachments/assets/c94e6829-a3c7-4509-b3ed-bbc43e0a1e8b" />
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=oumazings&amp;label=fimmies&amp;color=26a0d4&amp;style=plastic" alt=""> </p>
+<img src="https://komarev.com/ghpvc/?username=oumazings&amp;label=fimmies&amp;color=ce200d&amp;style=plastic" alt=""> </p>
 </p>
