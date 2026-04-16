@@ -5,7 +5,7 @@
 　
   </p>
   <p align="center">
-  <a href="https://nyancholic.straw.page">s</a>trawpage　・　<a href="https://oumi.atabook.org">a</a>tabook
+  <b><a href="https://nyancholic.straw.page">STRAWPAGE</a></b>　・　<b><a href="https://oumi.atabook.org">ATABOOK</a></b>
   </p>
     <p align="center">
 　
