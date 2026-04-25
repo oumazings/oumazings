@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source srcset="https://github.com/user-attachments/assets/b000a0ba-4aab-4739-836b-eca08d4bec19" media="(prefers-color-scheme: dark)">
-    <img src="https://your-link/light.png" width="300" height="300" alt="image">
+    <source srcset="https://github.com/user-attachments/assets/71669452-e78d-42fe-a5fa-10891b5258d5" media="(prefers-color-scheme: dark)">
+    <img src="https://your-link/light.png" width="200" height="250" alt="image">
   </picture>
 </p>
   <p align="center">
@@ -11,5 +11,5 @@
 　
   </p>
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=oumazings&amp;label=fimmies&amp;color=4ac925&amp;style=plastic" alt=""> </p>
+<img src="https://komarev.com/ghpvc/?username=oumazings&amp;label=fimmies&amp;color=2b9dd2&amp;style=plastic" alt=""> </p>
 </p>
