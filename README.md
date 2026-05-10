@@ -12,10 +12,6 @@
     </picture>
   </a>
 </p>
-    <p align="center">
-　
-  </p>
-
   <p align="center">
   <b><a href="https://rentry.co/hardcorehimejoshi">RENTRY</a></b>　　<b><a href="https://nyancholic.straw.page">STRAWPAGE</a></b>　　<b><a href="https://oumi.atabook.org">ATABOOK</a></b>
   </p>
