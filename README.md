@@ -1,9 +1,6 @@
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=oumazings&amp;label=fimmies&amp;color=e2ddf4&amp;style=plastic" alt=""> </p>
 </p>
-    <p align="center">
-　
-  </p>
 <p align="center">
   <a href="https://x.com/_laundromat_/status/1932705451759784286?t=bkeFGBZbvDUNzDBUZW7XtA&s=09" target="_blank">
     <picture>
