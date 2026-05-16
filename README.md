@@ -9,5 +9,5 @@
   </a>
 </p>
   <p align="center">
-  <b><a href="https://rentry.co/hardcorehimejoshi">RENTRY</a></b>　　<b><a href="https://nyancholic.straw.page">STRAWPAGE</a></b>　　<b><a href="https://oumi.atabook.org">ATABOOK</a></b>
+  <a href="https://rentry.co/hardcorehimejoshi">RENTRY</a>　<a href="https://nyancholic.straw.page">STRAWPAGE</a>　　<a href="https://oumi.atabook.org">ATABOOK</a>
   </p>
