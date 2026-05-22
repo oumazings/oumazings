@@ -1,9 +1,9 @@
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=oumazings&amp;label=fimmies&amp;color=e2ddf4&amp;style=plastic" alt=""> </p>
+<img src="https://komarev.com/ghpvc/?username=oumazings&amp;label=fimmies&amp;color=0135a7&amp;style=plastic" alt=""> </p>
 </p>
 <p align="center">
     <picture>
-      <source srcset="https://github.com/user-attachments/assets/7296cbe6-d48a-464a-b323-aa624b127dfa" media="(prefers-color-scheme: dark)">
+      <source srcset="https://github.com/user-attachments/assets/4e6a3caf-4244-4635-b987-da54c2e4e573" media="(prefers-color-scheme: dark)">
       <img src="light.png" width="300" height="300" alt="image">
     </picture>
   </a>
