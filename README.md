@@ -1,10 +1,10 @@
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=oumazings&amp;label=fimmies&amp;color=98c197&amp;style=plastic" alt=""> </p>
+<img src="https://komarev.com/ghpvc/?username=oumazings&amp;label=fimmies&amp;color=d34c51&amp;style=plastic" alt=""> </p>
 </p>
 <p align="center">
     <picture>
-      <source srcset="https://github.com/user-attachments/assets/9ab7b355-a5ca-4066-b801-642e3a1efc41" media="(prefers-color-scheme: dark)">
-      <img src="light.png" width="290" height="300" alt="image">
+      <source srcset="https://github.com/user-attachments/assets/5d4a18de-160e-4181-b35f-d5d608440db1" media="(prefers-color-scheme: dark)">
+      <img src="light.png" width="310" height="290" alt="image">
     </picture>
   </a>
 </p>
