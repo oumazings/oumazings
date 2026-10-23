@@ -9,7 +9,7 @@
 </p>
       　　
   <p align="center">
-  <b><a href="https://rentry.co/Ianguish">RENTRY</a></b>　　<a href="https://sibylline.straw.page">STRAWPAGE</a>　　<b><a href="https://oumi.atabook.org">ATABOOK</a></b>　　
+  <a href="https://rentry.co/desIocado">𝗋𝖾𝗇𝗍𝗋𝗒</a>　　<a href="https://sibylline.straw.page">𝗌𝗍𝗋𝖺𝗐𝗉𝖺𝗀𝖾</a>　　<a href="https://oumi.atabook.org">新𝖻𝗈𝗈𝗄</a>　　
   </p>
 
      
